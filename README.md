@@ -45,10 +45,8 @@
 
 ###
 
-<img align="right" height="" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5rdmdmajZ6MzB1ZDk3bXRwOXlyOHhhZXdwdDB4NnVkMzk2OXF5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.gif"  />
-
-###
-
-<img align="left" height="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxidnRzNmsyemdsZWI0azdwaTB4N2Jkc21kZm1tOGF1bnh4Y3pseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiM5K1e9MtEic/giphy.gif"  />
+<div align="center">
+  <img height="" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5rdmdmajZ6MzB1ZDk3bXRwOXlyOHhhZXdwdDB4NnVkMzk2OXF5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.gif"  />
+</div>
 
 ###
