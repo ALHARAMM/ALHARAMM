@@ -50,8 +50,15 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ALHARAMM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ALHARAMM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ALHARAMM/ALHARAMM/output/snake.svg" alt="Snake animation" />
+<img align="right" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZqaWJ4bmloaHE2ajg5bDlmaGRrMGRlbTdtbGoxaGI5eGVxMzV5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
 
 ###
