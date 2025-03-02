@@ -40,7 +40,9 @@
   <a href="https://www.linkedin.com/in/omar-ahmed-a6a021252/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="tryhackme logo"  />
+  <a href="https://tryhackme.com/p/omarahmed600" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="tryhackme logo"  />
+  </a>
 </div>
 
 ###
